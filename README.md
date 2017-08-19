@@ -1,6 +1,6 @@
 # Razer-App
 
-[Lets go to Razer App](lysdora.github.io/Razer-App)
+[Lets go to Razer App](https://lysdora.github.io/Razer-App/)
  
  
  
