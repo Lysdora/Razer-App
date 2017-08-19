@@ -1,2 +1,2 @@
 # Razer-App
-![Screenshot](razer.png)
+![Screenshot](Razer.png)
